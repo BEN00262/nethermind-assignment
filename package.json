@@ -1,0 +1,22 @@
+{
+  "name": "nethermind",
+  "version": "1.0.0",
+  "description": "The folder includes:",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest",
+    "start": "npx ts-node main.ts"
+  },
+  "keywords": [],
+  "author": "john kerama",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "devDependencies": {
+    "@types/jest": "^28.1.6",
+    "jest": "^28.1.3",
+    "ts-jest": "^28.0.7",
+    "typescript": "^4.7.4"
+  }
+}
